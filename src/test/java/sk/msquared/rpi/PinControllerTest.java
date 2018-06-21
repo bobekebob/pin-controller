@@ -1,4 +1,4 @@
-package com.raspberry;
+package sk.msquared.rpi;
 
 import static org.junit.Assert.assertTrue;
 
