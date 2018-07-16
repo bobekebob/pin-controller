@@ -79,6 +79,7 @@
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
                 <mainClass>sk.msquared.rpi.PinController</mainClass>
+                <useUniqueVersions>false</useUniqueVersions>
               </manifest>
             </archive>
           </configuration>
